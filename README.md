@@ -1,2 +1,2 @@
 # my-project
-My first repository on github
+To install this program simply copy and paste code in your editor 
